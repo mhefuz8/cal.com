@@ -3644,7 +3644,7 @@ __metadata:
     "@calcom/ui": "*"
     "@headlessui/react": ^1.5.0
     "@heroicons/react": ^1.0.6
-    "@prisma/client": ^5.4.2
+    "@prisma/client": ^5.3.0
     "@tailwindcss/forms": ^0.5.2
     "@types/node": 16.9.1
     "@types/react": 18.0.26
@@ -4048,7 +4048,7 @@ __metadata:
     rrule: ^2.7.1
     tailwind-merge: ^1.13.2
     tsdav: 2.0.3
-    tslog: ^3.2.1
+    tslog: ^4.9.2
     typescript: ^4.9.4
     uuid: ^8.3.2
   languageName: unknown
@@ -8245,7 +8245,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@prisma/client@npm:^5.4.2":
+"@prisma/client@npm:^5.3.0, @prisma/client@npm:^5.4.2":
   version: 5.4.2
   resolution: "@prisma/client@npm:5.4.2"
   dependencies:
@@ -35722,7 +35722,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"source-map-support@npm:^0.5.16, source-map-support@npm:^0.5.21, source-map-support@npm:~0.5.12, source-map-support@npm:~0.5.20":
+"source-map-support@npm:^0.5.16, source-map-support@npm:~0.5.12, source-map-support@npm:~0.5.20":
   version: 0.5.21
   resolution: "source-map-support@npm:0.5.21"
   dependencies:
@@ -38042,12 +38042,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslog@npm:^3.2.1":
-  version: 3.3.3
-  resolution: "tslog@npm:3.3.3"
-  dependencies:
-    source-map-support: ^0.5.21
-  checksum: ae84f4056865ad2d5a1f33d491387e4fd6c24642a08ccc29b8fcebce20784e94ef8b5863df5a5f85ec881125abc2b6b8b3aa022d2401a3716643332158346720
+"tslog@npm:^4.9.2":
+  version: 4.9.2
+  resolution: "tslog@npm:4.9.2"
+  checksum: 702e45647a68b127d63c5eb63a0f322af8d01f17b689127d32238d6ca2ef76889648a00b88c040430e3126acedef070022b20ebd81823879ba3766cf5188c868
   languageName: node
   linkType: hard
 
