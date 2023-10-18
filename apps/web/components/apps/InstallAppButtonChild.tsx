@@ -105,7 +105,6 @@ export const InstallAppButtonChild = ({
                     alt={team.logo || ""}
                     imageSrc={team.logo || `${CAL_URL}/${team.logo}/avatar.png`} // if no image, use default avatar
                     size="sm"
-                    className="h-4 w-4"
                     {...props}
                   />
                 )}
